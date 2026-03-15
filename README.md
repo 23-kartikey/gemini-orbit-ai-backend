@@ -6,6 +6,12 @@ Instead of reading static text, users explore concepts visually in a dynamic kno
 
 ---
 
+## Live Demo
+
+Frontend (Vercel): gemini-orbit-pied.vercel.app
+
+---
+
 ## Demo
 
 Enter any topic such as:
