@@ -35,6 +35,22 @@ Gemini generates a **3D constellation of related concepts** where:
 
 ---
 
+## Preview
+
+### Home
+![Home](docs/home.png)
+
+### Login / Register
+![Login](docs/loginregister.png)
+
+### Knowledge Graph
+![Graph](docs/graph.png)
+
+### Concept Details
+![Details](docs/details.png)
+
+---
+
 ## Features
 
 ### AI Knowledge Graph Generation
